@@ -1,5 +1,10 @@
 # CHANGELOG.md
 
+## v0.0.5
+Changes:
+ - add configurations for tunnel with sn
+ - add --ip to the test command
+
 ## v0.0.4
 Fixes:
  - fixed LED test
